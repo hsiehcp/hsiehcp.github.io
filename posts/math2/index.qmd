@@ -1,19 +1,11 @@
 ---
-title: "Quarto Display Test: Math + Python"
+title: "Quarto Display Test: simple title"
 author: "blogger"
 date: "2025-10-19"
 categories: [news]
-format:
-  html:
-    toc: true
-jupyter: python3
-execute:
-  echo: true
-  warning: false
-  message: false
 ---
 
-Try math and Code
+Try math and Code with simple title
 
 Inline formula $e^{i\pi}+1=0$
 
