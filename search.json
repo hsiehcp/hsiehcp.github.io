@@ -9,16 +9,16 @@
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Quarto Display Test: Math + Python",
+    "title": "Post With Code",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "This is a post with executable code.\ntitle: “Quarto Display Test: Math + Python” format: html: toc: true jupyter: python3 execute: echo: true warning: false message: false —"
   },
   {
     "objectID": "posts/post-with-code/index.html#python-version-simple-output",
     "href": "posts/post-with-code/index.html#python-version-simple-output",
-    "title": "Quarto Display Test: Math + Python",
+    "title": "Post With Code",
     "section": "Python version & simple output",
-    "text": "Python version & simple output\nimport sys, math print(“Python version:”, sys.version.split()[0]) sum(i*i for i in range(6))"
+    "text": "Python version & simple output\n\n\nCode\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n\n\nPython version: 3.8.10\n\n\n55"
   },
   {
     "objectID": "index.html",
