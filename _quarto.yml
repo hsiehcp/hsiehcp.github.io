@@ -13,11 +13,8 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
     code-tools: true
     code-fold: show
-    code-overflow: wrap
-    code-line-numbers: true
     html-math-method: mathjax
     
 
