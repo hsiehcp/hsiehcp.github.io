@@ -13,6 +13,16 @@ format:
   html:
     theme: cosmo
     html-math-method: mathjax
+    include-in-header: 
+      text: |
+        <script>
+        window.MathJax = {
+          tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']],
+            displayMath: [['$$', '$$'], ['\\[', '\\]']]
+          }
+        };
+        </script>
     code-fold: show
     
 
