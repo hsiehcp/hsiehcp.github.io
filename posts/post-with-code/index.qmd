@@ -55,4 +55,5 @@ Cross-reference test: see Equation \@eq-pythagoras.
 import sys, math
 print("Python version:", sys.version.split()[0])
 sum(i*i for i in range(6))
+```
 
