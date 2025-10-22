@@ -2,7 +2,7 @@
   "hash": "8eae46bf8d5200318bc2ddb82dea2a8e",
   "result": {
     "engine": "jupyter",
-    "markdown": "---\ntitle: \"Quarto Display Test: Math + Python\"\nauthor: \"blogger\"\ndate: \"2025-10-19\"\ncategories: [news]\nformat:\n  html:\n    toc: true\njupyter: python3\nexecute:\n  echo: true\n  warning: false\n  message: false\n---\n\n\n\n\nTry math and Code\n\nInline formula $e^{i\\pi}+1=0$\n\nFormula in paragraph:\n$$\n\\int_{0}^{\\pi} \\sin x \\, dx = 2.\n$$\n\n::: {#77241bff .cell execution_count=1}\n``` {.python .cell-code}\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nPython version: 3.8.10\n```\n:::\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n55\n```\n:::\n:::\n\n\n",
+    "markdown": "---\ntitle: \"Quarto Display Test: Math + Python\"\nauthor: \"blogger\"\ndate: \"2025-10-19\"\ncategories: [news]\nformat:\n  html:\n    toc: true\njupyter: python3\nexecute:\n  echo: true\n  warning: false\n  message: false\n---\n\n\n\n\nTry math and Code\n\nInline formula $e^{i\\pi}+1=0$\n\nFormula in paragraph:\n$$\n\\int_{0}^{\\pi} \\sin x \\, dx = 2.\n$$\n\n::: {#b31b06fb .cell execution_count=1}\n``` {.python .cell-code}\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nPython version: 3.8.10\n```\n:::\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n55\n```\n:::\n:::\n\n\n",
     "supporting": [
       "index_files"
     ],
