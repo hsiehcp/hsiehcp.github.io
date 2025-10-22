@@ -7,11 +7,18 @@
     "text": "About this blog"
   },
   {
+    "objectID": "posts/mathandcode/index.html",
+    "href": "posts/mathandcode/index.html",
+    "title": "Quarto Display Test: Math + Python",
+    "section": "",
+    "text": "Try math and Code\nInline formula \\(e^{i\\pi}+1=0\\)\nFormula in paragraph: \\[\n\\int_{0}^{\\pi} \\sin x \\, dx = 2.\n\\]\n\n\nCode\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n\n\nPython version: 3.8.10\n\n\n55"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dr Hsieh’s Q Blog",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 19, 2025\n\n\nblogger\n\n\n\n\n\nNo matching items"
+    "text": "Quarto Display Test: Math + Python\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 19, 2025\n\n\nblogger\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 19, 2025\n\n\nblogger\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
