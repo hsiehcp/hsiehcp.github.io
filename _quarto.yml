@@ -14,6 +14,9 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    code-tools: true
+    code-fold: show
+    html-math-method: mathjax
 
 
 
