@@ -7,3 +7,52 @@ image: "image.jpg"
 ---
 
 This is a post with executable code.
+
+---
+title: "Quarto Display Test: Math + Python"
+format:
+  html:
+    toc: true
+jupyter: python3
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+# Math checks
+
+Inline math: \(e^{i\pi}+1=0\).
+
+A displayed integral:
+
+$$
+\int_{0}^{\pi} \sin x \, dx = 2.
+$$
+
+Numbered equation with a label {#eq-pythagoras} you can cross-reference later:
+
+$$
+a^2 + b^2 = c^2. \tag{1}\label{eq-pythagoras}
+$$
+
+Aligned equations:
+\[
+\begin{aligned}
+(a+b)^2 &= a^2 + 2ab + b^2 \\
+\nabla \cdot \vec{E} &= \frac{\rho}{\varepsilon_0}
+\end{aligned}
+\]
+
+Cross-reference test: see Equation \@eq-pythagoras.
+
+---
+
+# Python checks
+
+## Python version & simple output
+```{python}
+import sys, math
+print("Python version:", sys.version.split()[0])
+sum(i*i for i in range(6))
+
