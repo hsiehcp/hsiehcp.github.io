@@ -1,0 +1,12 @@
+{
+  "hash": "17a20eebfa867843aa61f6797cb92076",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Quarto Display Test: Math + Python\"\nauthor: \"blogger\"\ndate: \"2025-10-19\"\ncategories: [news]\nformat:\n  html:\n    toc: true\njupyter: python3\nexecute:\n  echo: true\n  warning: false\n  message: false\n---\n\n\n\n\nTry math and Code\n\nInline formula $1 + 1 = 2$\n\nFormula in paragraph:\n$$\n2 + 2 = 4\n$$\n\n::: {#f2ba6d8d .cell execution_count=1}\n``` {.python .cell-code}\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nPython version: 3.8.10\n```\n:::\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n55\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

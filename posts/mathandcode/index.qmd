@@ -1,0 +1,29 @@
+---
+title: "Quarto Display Test: Math + Python"
+author: "blogger"
+date: "2025-10-19"
+categories: [news]
+format:
+  html:
+    toc: true
+jupyter: python3
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+Try math and Code
+
+Inline formula $e^{i\pi}+1=0$
+
+Formula in paragraph:
+$$
+\int_{0}^{\pi} \sin x \, dx = 2.
+$$
+
+```{python}
+import sys, math
+print("Python version:", sys.version.split()[0])
+sum(i*i for i in range(6))
+```
