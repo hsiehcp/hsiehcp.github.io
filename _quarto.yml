@@ -8,14 +8,12 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      
 format:
   html:
     theme: cosmo
-    code-tools: true
-    code-fold: show
     html-math-method: mathjax
+    code-fold: show
     
 
 
