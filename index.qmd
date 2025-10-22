@@ -1,5 +1,5 @@
 ---
-title: "Dr Hsieh's Q Blog"
+title: "Dr. Hsieh's Q Blog"
 listing:
   contents: posts
   sort: "date desc"
