@@ -1,31 +1,21 @@
 name: Quarto Publish
-
 on:
   push:
-    branches: [ main ]
-  workflow_dispatch:
-
+    branches: [ "main" ]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
+      - uses: actions/checkout@v4
+      - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Render
+        run: quarto render
+      - name: Publish to gh-pages
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          version: "latest"
-
-      - name: Render Quarto project
-        uses: quarto-dev/quarto-actions/render@v2
-        with:
-          to: html
-
-      - name: Publish to GitHub Pages
-        uses: quarto-dev/quarto-actions/publish@v2
-        with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: _site
