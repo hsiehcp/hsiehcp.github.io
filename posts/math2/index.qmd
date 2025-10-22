@@ -7,6 +7,8 @@ categories: [news]
 
 Try math and Code with simple title
 
+中文測試。
+
 Inline formula $e^{i\pi}+1=0$
 
 Formula in paragraph:
