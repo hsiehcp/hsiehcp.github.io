@@ -11,7 +11,7 @@
     "href": "posts/math_2/index.html",
     "title": "Quarto Display Test: simple title",
     "section": "",
-    "text": "Try math and Code with simple title\n中文測試。\nInline formula \\(e^{i\\pi}+1=0\\)\nFormula in paragraph: \\[\n\\int_{0}^{\\pi} \\sin x \\, dx = 2.\n\\]\n\n\nCode\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n\n\nPython version: 3.8.10\n\n\n55"
+    "text": "Try math and Code with simple title.\n中文測試。\nInline formula \\(e^{i\\pi}+1=0\\)\nFormula in paragraph: \\[\n\\int_{0}^{\\pi} \\sin x \\, dx = 2.\n\\]\n\n\nCode\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n\n\nPython version: 3.8.10\n\n\n55"
   },
   {
     "objectID": "index.html",
