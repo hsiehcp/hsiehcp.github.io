@@ -3,9 +3,10 @@ title: "Quarto Display Test: simple title"
 author: "blogger"
 date: "2025-10-19"
 categories: [news]
+jupyter: python3
 ---
 
-Try math and Code with simple title
+Try math and Code with simple title.
 
 中文測試。
 

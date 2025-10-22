@@ -1,8 +1,8 @@
 {
-  "hash": "223d20d8f0e3a9a78ae9cb9920e6ccac",
+  "hash": "d740d0d30a63b050129a837f487a458f",
   "result": {
     "engine": "jupyter",
-    "markdown": "---\ntitle: \"Quarto Display Test: simple title\"\nauthor: \"blogger\"\ndate: \"2025-10-19\"\ncategories: [news]\n---\n\n\n\n\nTry math and Code with simple title\n\n中文測試。\n\nInline formula $e^{i\\pi}+1=0$\n\nFormula in paragraph:\n$$\n\\int_{0}^{\\pi} \\sin x \\, dx = 2.\n$$\n\n::: {#a6efb0c8 .cell execution_count=1}\n``` {.python .cell-code}\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nPython version: 3.8.10\n```\n:::\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n55\n```\n:::\n:::\n\n\n",
+    "markdown": "---\ntitle: \"Quarto Display Test: simple title\"\nauthor: \"blogger\"\ndate: \"2025-10-19\"\ncategories: [news]\njupyter: python3\n---\n\n\n\n\nTry math and Code with simple title.\n\n中文測試。\n\nInline formula $e^{i\\pi}+1=0$\n\nFormula in paragraph:\n$$\n\\int_{0}^{\\pi} \\sin x \\, dx = 2.\n$$\n\n::: {#9709443d .cell execution_count=1}\n``` {.python .cell-code}\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nPython version: 3.8.10\n```\n:::\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n55\n```\n:::\n:::\n\n\n",
     "supporting": [
       "index_files"
     ],
