@@ -22,7 +22,7 @@ execute:
 
 # Math checks
 
-Inline math: \(e^{i\pi}+1=0\).
+Inline math: $e^{i\pi}+1=0$.
 
 A displayed integral:
 
@@ -37,14 +37,13 @@ a^2 + b^2 = c^2. \tag{1}\label{eq-pythagoras}
 $$
 
 Aligned equations:
-\[
+$$
 \begin{aligned}
 (a+b)^2 &= a^2 + 2ab + b^2 \\
 \nabla \cdot \vec{E} &= \frac{\rho}{\varepsilon_0}
 \end{aligned}
-\]
+$$
 
-Cross-reference test: see Equation \@eq-pythagoras.
 
 ---
 

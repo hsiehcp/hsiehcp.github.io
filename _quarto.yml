@@ -13,6 +13,7 @@ format:
   html:
     theme: cosmo
     html-math-method: mathjax
+    code-fold: show
     
 
 
