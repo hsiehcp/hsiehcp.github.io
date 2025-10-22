@@ -7,25 +7,11 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\ntitle: “Quarto Display Test: Math + Python” format: html: toc: true jupyter: python3 execute: echo: true warning: false message: false —"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#python-version-simple-output",
-    "href": "posts/post-with-code/index.html#python-version-simple-output",
-    "title": "Post With Code",
-    "section": "Python version & simple output",
-    "text": "Python version & simple output\n\n\nCode\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n\n\nPython version: 3.8.10\n\n\n55"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dr Hsieh’s Q Blog",
     "section": "",
-    "text": "Quarto Display Test: Math + Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 19, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 19, 2025\n\n\nblogger\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
