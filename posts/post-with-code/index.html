@@ -235,7 +235,7 @@ window.Quarto = {
 <p>title: “Quarto Display Test: Math + Python” format: html: toc: true jupyter: python3 execute: echo: true warning: false message: false —</p>
 <section id="math-checks" class="level1">
 <h1>Math checks</h1>
-<p>Inline math: (e^{i}+1=0).</p>
+<p>Inline math: <span class="math inline">\(e^{i\pi}+1=0\)</span>.</p>
 <p>A displayed integral:</p>
 <p><span class="math display">\[
 \int_{0}^{\pi} \sin x \, dx = 2.
@@ -244,27 +244,29 @@ window.Quarto = {
 <p><span class="math display">\[
 a^2 + b^2 = c^2. \tag{1}\label{eq-pythagoras}
 \]</span></p>
-Aligned equations: [
-<span class="math display">\[\begin{aligned}
+<p>Aligned equations: <span class="math display">\[
+\begin{aligned}
 (a+b)^2 &amp;= a^2 + 2ab + b^2 \\
 \nabla \cdot \vec{E} &amp;= \frac{\rho}{\varepsilon_0}
-\end{aligned}\]</span>
-<p>]</p>
-<p>Cross-reference test: see Equation @eq-pythagoras.</p>
+\end{aligned}
+\]</span></p>
 <hr>
 </section>
 <section id="python-checks" class="level1">
 <h1>Python checks</h1>
 <section id="python-version-simple-output" class="level2">
 <h2 class="anchored" data-anchor-id="python-version-simple-output">Python version &amp; simple output</h2>
-<div id="8cd5fc00" class="cell" data-execution_count="1">
+<div id="762e56e4" class="cell" data-execution_count="1">
+<details open="" class="code-fold">
+<summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> sys, math</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">"Python version:"</span>, sys.version.split()[<span class="dv">0</span>])</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="bu">sum</span>(i<span class="op">*</span>i <span class="cf">for</span> i <span class="kw">in</span> <span class="bu">range</span>(<span class="dv">6</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>Python version: 3.8.10</code></pre>
 </div>
-<div class="cell-output cell-output-display" data-execution_count="1">
+<div class="cell-output cell-output-display" data-execution_count="2">
 <pre><code>55</code></pre>
 </div>
 </div>

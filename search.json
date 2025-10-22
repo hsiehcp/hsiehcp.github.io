@@ -18,7 +18,7 @@
     "href": "posts/post-with-code/index.html#python-version-simple-output",
     "title": "Post With Code",
     "section": "Python version & simple output",
-    "text": "Python version & simple output\n\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n\nPython version: 3.8.10\n\n\n55"
+    "text": "Python version & simple output\n\n\nCode\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n\n\nPython version: 3.8.10\n\n\n55"
   },
   {
     "objectID": "index.html",
