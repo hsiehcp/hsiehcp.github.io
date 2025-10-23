@@ -18,7 +18,14 @@
     "href": "index.html",
     "title": "Dr. Hsieh’s Q Blog",
     "section": "",
-    "text": "Quarto Display Test: simple title\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 19, 2025\n\n\nblogger\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 19, 2025\n\n\nblogger\n\n\n\n\n\nNo matching items"
+    "text": "測試 jupyter lab 檔\n\n\n\ncode\n\n\n\n\n\n\n\n\n\nOct 23, 2025\n\n\nblogger\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Display Test: simple title\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 19, 2025\n\n\nblogger\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 19, 2025\n\n\nblogger\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/note3/note3.html",
+    "href": "posts/note3/note3.html",
+    "title": "測試 jupyter lab 檔",
+    "section": "",
+    "text": "測試使用 ipynb 檔形成網頁\n\n\nCode\n3 + 4\n\n\n7\n\n\n顯示數學示 \\(3 + 3 = 6\\)\n\\[\n2 + 8 = 7\n\\]"
   },
   {
     "objectID": "posts/welcome/index.html",
