@@ -11,7 +11,7 @@
     "href": "posts/math_2/index.html",
     "title": "Quarto Display Test: simple title",
     "section": "",
-    "text": "Try math and Code with simple title.\n中文測試。\nInline formula \\(e^{i\\pi}+1=0\\)\nFormula in paragraph: \\[\n\\int_{0}^{\\pi} \\sin x \\, dx = 2.\n\\]\n\n\nCode\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n\n\nPython version: 3.8.10\n\n\n55"
+    "text": "Try math and Code with simple title.\n中文測試。\nInline formula \\(e^{i\\pi}+1=0\\)\nFormula in paragraph: \\[\n\\int_{0}^{\\pi} \\sin x \\, dx = 2.\n\\]\n\n\nCode\nimport sys, math\nprint(\"Python version:\", sys.version.split()[0])\nsum(i*i for i in range(6))\n\n\nPython version: 3.11.8\n\n\n55"
   },
   {
     "objectID": "index.html",
@@ -25,7 +25,7 @@
     "href": "posts/note3/note3.html",
     "title": "測試 jupyter lab 檔",
     "section": "",
-    "text": "測試使用 ipynb 檔形成網頁\n\n\nCode\n3 + 4\n\n\n7\n\n\n顯示數學示 \\(3 + 3 = 6\\)\n\\[\n2 + 8 = 7\n\\]"
+    "text": "Code\n3 + 4\n\n\n7\n\n\n顯示數學式 \\(3 + 3 = 6\\)\n\\[\n2 + 8 = 7\n\\]"
   },
   {
     "objectID": "posts/welcome/index.html",
