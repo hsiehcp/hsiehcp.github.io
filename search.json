@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n第一篇文章\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "以下列出重要專案：\n\n\n簡介與連結\n\n\n\n簡介與連結"
+  },
+  {
+    "objectID": "projects.html#my-work",
+    "href": "projects.html#my-work",
+    "title": "Projects",
+    "section": "",
+    "text": "以下列出重要專案：\n\n\n簡介與連結\n\n\n\n簡介與連結"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m [你的名字]",
+    "section": "",
+    "text": "這裡是我的個人網站 —\n我做 Data Science、開源、寫作、講者。\n\n\n\n\nProject A\nProject B"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Hi, I’m [你的名字]",
+    "section": "",
+    "text": "Project A\nProject B"
+  },
+  {
+    "objectID": "blog/post1/index.html",
+    "href": "blog/post1/index.html",
+    "title": "第一篇文章",
+    "section": "",
+    "text": "內容．．．"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "我是 [你的名字] — Data Scientist / Engineer / Writer\n寫一些關於我、經歷、照片等。"
+  },
+  {
+    "objectID": "about.html#hello",
+    "href": "about.html#hello",
+    "title": "About Me",
+    "section": "",
+    "text": "我是 [你的名字] — Data Scientist / Engineer / Writer\n寫一些關於我、經歷、照片等。"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "第一篇文章\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\nNo matching items"
+  }
+]
