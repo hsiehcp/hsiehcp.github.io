@@ -4,62 +4,76 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blog posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n第一篇文章\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Blog posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMerry Xmas\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n歡迎一起討論\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "talk.html",
+    "href": "talk.html",
+    "title": "Talks",
     "section": "",
-    "text": "以下列出重要專案：\n\n\n簡介與連結\n\n\n\n簡介與連結"
+    "text": "實證醫學文獻的搜尋方法\nAI智慧護心：數位時代的心血管健康管理"
   },
   {
-    "objectID": "projects.html#my-work",
-    "href": "projects.html#my-work",
-    "title": "Projects",
+    "objectID": "talk.html#演講選輯",
+    "href": "talk.html#演講選輯",
+    "title": "Talks",
     "section": "",
-    "text": "以下列出重要專案：\n\n\n簡介與連結\n\n\n\n簡介與連結"
+    "text": "實證醫學文獻的搜尋方法\nAI智慧護心：數位時代的心血管健康管理"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi, I’m [你的名字]",
-    "section": "",
-    "text": "這裡是我的個人網站 —\n我做 Data Science、開源、寫作、講者。\n\n\n\n\nProject A\nProject B"
-  },
-  {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "Hi, I’m [你的名字]",
-    "section": "",
-    "text": "Project A\nProject B"
+    "objectID": "talk.html#youtube-分享",
+    "href": "talk.html#youtube-分享",
+    "title": "Talks",
+    "section": "Youtube 分享",
+    "text": "Youtube 分享\n\nZotero 論文書目管理軟體的使用教學\n如何用線上 Google Docs 文書編輯搭配 Zotero 書目管理軟體撰寫論文"
   },
   {
     "objectID": "blog/post1/index.html",
     "href": "blog/post1/index.html",
-    "title": "第一篇文章",
+    "title": "Merry Xmas",
     "section": "",
-    "text": "內容．．．"
+    "text": "今天是聖誕節，珍惜與家人朋友在一起的時光。\n祝大家聖誕節快樂，學習愉快。"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Dr. Hsieh",
     "section": "",
-    "text": "我是 [你的名字] — Data Scientist / Engineer / Writer\n寫一些關於我、經歷、照片等。"
+    "text": "我是一位家庭醫學科醫師，業餘也喜歡學習自然科學和電腦使用的技巧。\n我從台灣大學醫學系畢業後，從事細胞神經生理學的基礎研究，取得生理學理學博士學位。並接受完整家庭醫學科訓練，成為主治醫師執業。 也曾在大學擔任兼任助理教授，講授自然科學，神經生理學，和物理化學導論等課程。\n在這個網站分享個人學習自然科學，電腦，和醫學的經驗。\n歡迎各位朋友一起分享討論，請多多指教 ^^。\n謝其磐 (M.D./Ph.D.)\nemail: hsiehcp@protonmail.com\n\n\n\n\n用電腦代數系統計算高中數學"
   },
   {
-    "objectID": "about.html#hello",
-    "href": "about.html#hello",
-    "title": "About Me",
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Hi, I’m Dr. Hsieh",
     "section": "",
-    "text": "我是 [你的名字] — Data Scientist / Engineer / Writer\n寫一些關於我、經歷、照片等。"
+    "text": "用電腦代數系統計算高中數學"
   },
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "第一篇文章\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Merry Xmas\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n歡迎一起討論\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/post2/index.html",
+    "href": "blog/post2/index.html",
+    "title": "歡迎一起討論",
+    "section": "",
+    "text": "未來會在這裡分享學習經驗。\n歡迎一起討論。:)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "以下是近期我與 AI 協作的作品，內容是使用電腦代數系統 (Computer Algebra System, CAS) 來計算高中數學。\n電腦代數系統可以做數學符號運算，產生公式解，也可以算數值解，函數繪圖可以幫助學習者理解，建立直覺。把一部份計算交給電腦，學習者就可以有更多時間專注在理解數學問題和應用，也可用電腦驗竳手算結果，增加信心。\n以下三種電腦代數系統都是開源的程式，可以免費下載使用。\n有興趣的朋友可以先以 Python/SymPy 為主要學習材料，因為 Python 是目前最多人使用的程式語言，各大 AI 系統回答問題時，也是以 Python 為主。\n所以學習 Python 的擴充性和延展性很好。另一方面，只要連上 Google Colab，馬上就可以執行 Python 程式碼，很方便。\n\n\n用 Python/SymPy 計算高中數學：電腦代數系統的應用\n若有興趣或遇到個別數學問題需要比較，也可以嘗試使用 Maxima/wxMaxima 和 SageMath。\n\n\n\n用 Maxima/wxMaxima 計算高中數學：電腦代數系統的應用\n\n\n\n用 SageMath 計算高中數學：電腦代數系統的應用"
+  },
+  {
+    "objectID": "projects.html#my-work",
+    "href": "projects.html#my-work",
+    "title": "Projects",
+    "section": "",
+    "text": "以下是近期我與 AI 協作的作品，內容是使用電腦代數系統 (Computer Algebra System, CAS) 來計算高中數學。\n電腦代數系統可以做數學符號運算，產生公式解，也可以算數值解，函數繪圖可以幫助學習者理解，建立直覺。把一部份計算交給電腦，學習者就可以有更多時間專注在理解數學問題和應用，也可用電腦驗竳手算結果，增加信心。\n以下三種電腦代數系統都是開源的程式，可以免費下載使用。\n有興趣的朋友可以先以 Python/SymPy 為主要學習材料，因為 Python 是目前最多人使用的程式語言，各大 AI 系統回答問題時，也是以 Python 為主。\n所以學習 Python 的擴充性和延展性很好。另一方面，只要連上 Google Colab，馬上就可以執行 Python 程式碼，很方便。\n\n\n用 Python/SymPy 計算高中數學：電腦代數系統的應用\n若有興趣或遇到個別數學問題需要比較，也可以嘗試使用 Maxima/wxMaxima 和 SageMath。\n\n\n\n用 Maxima/wxMaxima 計算高中數學：電腦代數系統的應用\n\n\n\n用 SageMath 計算高中數學：電腦代數系統的應用"
   }
 ]
